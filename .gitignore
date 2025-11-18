@@ -881,6 +881,7 @@ venv.bak/
 # Data files
 *.csv
 *.json
+!vercel.json
 *.xml
 *.parquet
 data/
